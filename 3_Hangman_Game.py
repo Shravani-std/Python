@@ -65,7 +65,7 @@ if __name__ ==  '__main__':
 
         if chances <= 0 and (Counter(storeWord) != Counter(word)):
             print()
-            print("You losttry agin")
+            print("You losttry again")
             print("The word was {}".format(word))
 
 
